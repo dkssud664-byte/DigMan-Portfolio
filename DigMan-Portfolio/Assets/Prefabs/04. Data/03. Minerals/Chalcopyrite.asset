@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77650c7a620db644c8e33a9d961c4845, type: 3}
+  m_Name: Chalcopyrite
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 1130894799026057140, guid: 26a68ac878203324099e00e7c31ec9db, type: 3}
+  - {fileID: 3035962768079000310, guid: 8d040b34ee678ed499f785efbc97e8b6, type: 3}
+  - {fileID: 1807396680143306272, guid: e399f2fd7cda79b4fa1a3b9bceb9f16d, type: 3}
+  - {fileID: 87601982843975301, guid: fe6dec79a6568ad44afd2da7ca11e356, type: 3}
+  brokenSprites:
+  - {fileID: 21300000, guid: 7b71c839f22c5f74db7ad7d2f5370449, type: 3}
+  - {fileID: 21300000, guid: 325f4da65d4532345a2b6dff6f07cefc, type: 3}
+  - {fileID: 21300000, guid: e41af6a9e5e5de044a778ba9e532f463, type: 3}
+  material: {fileID: 2100000, guid: f1148daad0307fa44a0939f2a2347024, type: 2}
+  type: 4
+  maxhp: 1
